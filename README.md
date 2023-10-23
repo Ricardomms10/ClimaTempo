@@ -24,8 +24,8 @@ Esta aplicação foi desenvolvida para permitir que os usuários obtenham inform
 
  ## 🧠 Autor 
 
- Ricardo Malta 
- Email: Ricardo.Malta@gmail.com
+ Ricardo Malta </br>
+ Email: Ricardomms10@gmail.com
 
 
 
